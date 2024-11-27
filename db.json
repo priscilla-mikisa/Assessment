@@ -1,0 +1,21 @@
+{
+    "shops": [
+      {
+        "id": 1,
+        "name": "Electronics Shop",
+        "description": "Latest gadgets and electronics",
+        "logo": "/uploads/electronics-logo.png"
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "shopId": 1,
+        "name": "Smartphone X",
+        "price": 599.99,
+        "stockLevel": 50,
+        "description": "Latest smartphone with advanced features",
+        "image": "/uploads/smartphone.png"
+      }
+    ]
+  }
